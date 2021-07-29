@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+*{
+
+    font-family: 'Poppins', sans-serif;
+    color:black;
+
+}
+
+.gray{
+    filter: grayscale(100%);
+}
+
+.fa-star.filled{
+
+    color: #FFC014;
+    ;
+}
+
+.fa-star.empty{
+
+    color: #9F9F9F;
+   
+}.fa-star.empty{
+
+    color: #9F9F9F;
+   
+}
